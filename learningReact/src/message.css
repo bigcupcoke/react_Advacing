@@ -1,0 +1,9 @@
+.message {
+    margin: 3px 0;
+    border: 1px dashed lightcoral;
+    text-align: left;
+}
+
+.message div, p {
+    padding-left: 10px;
+}
